@@ -7,3 +7,10 @@
   box-shadow: none;
   border: none;
 }
+
+.background {
+  background-color: #292929;
+  height: 200px;
+  padding-top: 10px;
+  color: white;
+}
